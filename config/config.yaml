@@ -147,10 +147,27 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
-    - id: "Journal of International Economics"
+    - id: "Journal-of-International-Economics"
       name: "JIE"
       url: "https://rss.sciencedirect.com/publication/science/00221996"
       max_age_days: 14
+
+      - id: "Journal of Banking & Finance"
+      name: "JBF"
+      url: "https://rss.sciencedirect.com/publication/science/03784266"
+      max_age_days: 14
+      
+    - id: "Journal of Monetary Economics"
+      name: "JME"
+      url: "https://rss.sciencedirect.com/publication/science/03043932"
+      max_age_days: 14   
+      
+    - id: "Journal of Development Economics"
+      name: "JIE"
+      url: "https://rss.sciencedirect.com/publication/science/03043878"
+      max_age_days: 14  
+      
+
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
