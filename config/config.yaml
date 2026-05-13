@@ -150,6 +150,7 @@ rss:
     - id: "Journal of International Economics"
       name: "JIE"
       url: "https://rss.sciencedirect.com/publication/science/00221996"
+      max_age_days: 14
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
